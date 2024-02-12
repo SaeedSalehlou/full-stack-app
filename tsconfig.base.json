@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@fst/server/feature-todo": ["server/feature-todo/src/index.ts"],
       "@fst/shared/domain": ["shared/domain/src/index.ts"]
     }
   },
